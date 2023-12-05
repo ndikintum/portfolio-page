@@ -1,5 +1,5 @@
-  // Sample data for projects and technologies
-  const projects = [
+// Sample data for projects and technologies
+const projects = [
   'Project 1: Web App',
   'Project 2: Mobile App',
   'Project 3: Data Analysis Tool',
